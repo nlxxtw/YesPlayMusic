@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://mapi.19492035.xyz/:match*"
+    }
+  ]
+}
